@@ -1,0 +1,11 @@
+"./clock.obj"
+"./gpio.obj"
+"./lab3_part11_sadhanpawar.obj"
+"./lab3_part1_2_sadhanpawar.obj"
+"./lab3_part3_sadhanpawar.obj"
+"./lab3_part4_6_sadhanpawar.obj"
+"./nvic.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./wait.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
